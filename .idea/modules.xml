@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Yuan-SpringBoot-master.iml" filepath="$PROJECT_DIR$/.idea/Yuan-SpringBoot-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yuan-SpringBoot-master/SpringBoot快速搭建后台/IDEA项目源码/manage/manage.iml" filepath="$PROJECT_DIR$/Yuan-SpringBoot-master/SpringBoot快速搭建后台/IDEA项目源码/manage/manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yuan-SpringBoot-master/SpringBoot+Vue简单用户管理平台/usermanager/usermanager.iml" filepath="$PROJECT_DIR$/Yuan-SpringBoot-master/SpringBoot+Vue简单用户管理平台/usermanager/usermanager.iml" />
+    </modules>
+  </component>
+</project>

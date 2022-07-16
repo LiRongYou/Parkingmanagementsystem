@@ -1,0 +1,155 @@
+/*第一排车位margin-top: -690px;*/
+/*第二排车位margin-top: 210px;*/
+/*同排车位间隔221px*/
+.chewei11 {
+    position: relative;
+    margin-top: -730px;
+    margin-left: 63px;
+    width: 100px;
+    height: 240px;
+}
+.chewei21 {
+      position: relative;
+      margin-top: 210px;
+      margin-left: 63px;
+      width: 100px;
+      height: 240px;
+  }
+
+.chewei12 {
+    position: relative;
+    margin-top: -690px;
+    margin-left: 284px;
+    width: 100px;
+    height: 240px;
+}
+
+.chewei22 {
+    position: relative;
+    margin-top: 210px;
+    margin-left: 284px;
+    width: 100px;
+    height: 240px;
+}
+
+.chewei13 {
+    position: relative;
+    margin-top: -690px;
+    /*505=284+221*/
+    margin-left: 505px;
+    width: 100px;
+    height: 240px;
+}
+
+.chewei23 {
+    position: relative;
+    margin-top: 210px;
+    margin-left: 505px;
+    width: 100px;
+    height: 240px;
+}
+.chewei14 {
+    position: relative;
+    margin-top: -690px;
+    margin-left: 726px;
+    width: 100px;
+    height: 240px;
+}
+
+.chewei24 {
+    position: relative;
+    margin-top: 210px;
+    margin-left: 726px;
+    width: 100px;
+    height: 240px;
+}
+.chewei15 {
+    position: relative;
+    margin-top: -690px;
+    margin-left: 947px;
+    width: 100px;
+    height: 240px;
+}
+
+.chewei25 {
+    position: relative;
+    margin-top: 210px;
+    margin-left: 947px;
+    width: 100px;
+    height: 240px;
+}
+.chewei16 {
+    position: relative;
+    margin-top: -690px;
+    margin-left: 1168px;
+    width: 100px;
+    height: 240px;
+}
+
+.chewei26 {
+    position: relative;
+    margin-top: 210px;
+    margin-left: 1168px;
+    width: 100px;
+    height: 240px;
+}
+.chewei17 {
+    position: relative;
+    margin-top: -690px;
+    margin-left: 1389px;
+    width: 100px;
+    height: 240px;
+}
+
+.chewei27 {
+    position: relative;
+    margin-top: 210px;
+    margin-left: 1389px;
+    width: 100px;
+    height: 240px;
+}
+.chewei18 {
+    position: relative;
+    margin-top: -690px;
+    margin-left: 1610px;
+    width: 100px;
+    height: 240px;
+}
+
+.chewei28 {
+    position: relative;
+    margin-top: 210px;
+    margin-left: 1610px;
+    width: 100px;
+    height: 240px;
+}
+.chewei19 {
+    position: relative;
+    margin-top: -690px;
+    margin-left: 1831px;
+    width: 100px;
+    height: 240px;
+}
+
+.chewei29 {
+    position: relative;
+    margin-top: 210px;
+    margin-left: 1831px;
+    width: 100px;
+    height: 240px;
+}
+.chewei110 {
+    position: relative;
+    margin-top: -690px;
+    margin-left: 2052px;
+    width: 100px;
+    height: 240px;
+}
+
+.chewei210 {
+    position: relative;
+    margin-top: 210px;
+    margin-left: 2052px;
+    width: 100px;
+    height: 240px;
+}
